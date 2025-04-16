@@ -19,6 +19,4 @@ This project demonstrates a practical application of machine learning in the fie
 * Python
 * Pandas (for data manipulation)
 * Scikit-learn (for machine learning algorithms, Grid Search CV, and evaluation metrics)
-* [Add any other specific libraries you used, e.g., NumPy, Matplotlib]
-
-## Project Structure
+*  NumPy, Matplotlib, Pandas
